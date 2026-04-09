@@ -27,7 +27,7 @@ Capstone ETL pipeline that collects, cleans, and analyzes live job-market data v
 **2. SaaS Cost Optimizer**  
 Python + SQL + Power BI tool that analyzes subscription usage and flags overspending.  
 → Identified ₹1.2L+ potential annual savings for a 12-tool SaaS stack  
-[→ View Project](https://github.com/Yash-BP/saas-cost-optimizer)
+[→ View Project](https://github.com/Yash-BP/subscan-saas-analyzer )
 
 **3. Invoice OCR ETL Pipeline**  
 End-to-end automation that extracts, validates, and loads invoice data for Indian SMEs.  
