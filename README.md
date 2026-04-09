@@ -34,11 +34,8 @@ End-to-end automation that extracts, validates, and loads invoice data for India
 → Processed 500+ invoices • 90% reduction in manual data entry • Live Streamlit analytics dashboard  
 [→ View Project](https://github.com/Yash-BP/invoice-ocr-pipeline)
 
-### 📊 GitHub Stats
-![Yash-BP's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-BP&show_icons=true&theme=radical)
-
 ### Let's connect
 Open to **Data Analyst / Data Engineer internships** (Summer 2026)  
-📍 Pune, India | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+📍 Pune, India | [LinkedIn](https://linkedin.com/in/yash-bhusari) | [Email](yashbhusari22@gmail.com)
 
 > “Data that works is better than data that exists.”
