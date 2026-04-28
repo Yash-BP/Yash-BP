@@ -34,9 +34,6 @@ Capstone ETL pipeline collecting live job postings + salary data via APIs and we
 → Cleaned and visualized technology demand + salary trends • Production logging + modular pipeline • Outputs ready for EDA (CSV + Excel)  
 [→ View Project](https://github.com/Yash-BP/IBM-Data-Analyst-Project)
 
-### 📊 GitHub Stats
-![Yash-BP's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-BP&show_icons=true&theme=radical)
-
 ### Let's Connect
 Open to **Data Analyst / Junior Data Engineer roles & internships** (2026)  
 📍 Pune, India  
