@@ -1,4 +1,4 @@
-# Hi, I'm Yash Bhusari 👋
+# Hi, I'm Yash Bhusari 
 
 **3rd-year CSE student building production-ready data pipelines that actually get used.**
 
@@ -17,7 +17,7 @@ Power BI • Streamlit • Matplotlib • Seaborn • Plotly
 **Tools & Workflow**  
 Docker • Git • GitHub Actions • pytest • VS Code • Linux
 
-### 🔥 Featured Projects
+###  Featured Projects
 
 **1. Invoice OCR ETL Pipeline**  
 End-to-end automation that extracts, validates, and loads Indian GST invoice data for SMEs.  
